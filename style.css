@@ -1,0 +1,10 @@
+.show{
+    display: block;
+}
+.hidden {
+    display: none;
+}
+.highlight{ background-color: yellow;}
+.underline{text-decoration: underline;}
+.bold{ font-weight: bold;}
+#btn{cursor: pointer;}
